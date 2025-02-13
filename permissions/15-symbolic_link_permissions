@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -h 1000:50 _hello
