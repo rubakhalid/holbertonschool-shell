@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir my_dir
-chmod 751 my_dir
+if mkdir my_dir; then chmod 751 my_dir
